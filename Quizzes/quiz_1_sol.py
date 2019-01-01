@@ -1,4 +1,4 @@
-# Written by Eric Martin for COMP9021
+# Written by Puneeth Devadiga for COMP9021
 
 
 '''
