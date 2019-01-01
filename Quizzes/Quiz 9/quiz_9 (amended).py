@@ -5,7 +5,7 @@
 # - every inner node in T* has two children, and
 # - the sum of the nodes along all of T*'s branches is equal to M.
 #
-# Written by *** and Eric Martin for COMP9021
+
 
 
 import sys
