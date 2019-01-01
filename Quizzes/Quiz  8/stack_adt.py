@@ -1,5 +1,3 @@
-# Written by Eric Martin for COMP9021
-
 
 '''
 A Stack abstract data type
