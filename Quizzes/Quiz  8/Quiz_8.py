@@ -8,7 +8,7 @@
 # always trying to keep the current direction,
 # and if that does not work turning in a clockwise manner.
 #
-# Written by Eric Martin for COMP9021
+
 
 
 import sys
