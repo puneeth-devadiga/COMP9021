@@ -1,4 +1,4 @@
-# Written by **** for COMP9021
+# Written by Puneeth Devadiga for COMP9021
 
 from linked_list_adt import *
 
