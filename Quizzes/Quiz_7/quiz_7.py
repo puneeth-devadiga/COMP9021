@@ -4,7 +4,6 @@
 # ends with all even values, preserving the order of odd and even values in the
 # original list, respectively.
 #
-# Written by Eric Martin for COMP9021
 
 
 import sys
